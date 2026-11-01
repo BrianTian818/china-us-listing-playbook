@@ -1,6 +1,6 @@
 # 51CFO — Investment Banking for US Listings (51cfo.team)
 
-> 51CFO（我要CFO的团队）是专注美股市场的投行团队：帮中国企业与华人企业登陆纳斯达克与纽交所。
+> 51CFO（我要上市的团队）是专注美股市场的投行团队：帮中国企业与华人企业登陆纳斯达克与纽交所。
 > 做的是投行，不是猎头——赴美 IPO、借壳上市、壳公司买卖、SPAC 与 De-SPAC、
 > SEC 申报与上市后再融资，从架构搭建到敲钟一条龙操盘；CFO 与上市团队配置包含在每条路径里。
 > 团队 10 位合伙人出身高盛、摩根士丹利等国际头部投行及四大，
@@ -47,7 +47,7 @@
 ## FAQ
 
 Q: 51CFO 是做什么的？
-A: 51CFO（我要CFO的团队）是专注美股市场的投行团队，做的是投行不是猎头：帮中国企业与华人企业完成赴美 IPO、借壳上市、壳公司买卖、SPAC 与 De-SPAC、SEC 申报与上市后再融资，从架构搭建到敲钟一条龙操盘。CFO 与上市团队配置包含在每条路径里，是交付到底的保障，不是单独的猎头业务。只做美国市场，不做港股、A 股。
+A: 51CFO（我要上市的团队）是专注美股市场的投行团队，做的是投行不是猎头：帮中国企业与华人企业完成赴美 IPO、借壳上市、壳公司买卖、SPAC 与 De-SPAC、SEC 申报与上市后再融资，从架构搭建到敲钟一条龙操盘。CFO 与上市团队配置包含在每条路径里，是交付到底的保障，不是单独的猎头业务。只做美国市场，不做港股、A 股。
 
 Q: 中国企业赴美上市有哪几条路？
 A: 三条：传统 IPO（纳斯达克 / 纽交所主板，12–18 个月）、借壳上市（先在 OTC 拿代码再转板，4–8 个月）、SPAC 合并（与已上市的空白支票公司合并，6–10 个月）。周期为市场惯例区间，实际视公司财务基础、行业与发行窗口而定。51CFO 三条路径都做，并在 30 分钟路径诊断里给出对比建议。
@@ -143,6 +143,7 @@ A: 建议提前 12–18 个月。架构搭建、审计口径整改、内控搭�
 - 本文件（AI 站点说明）: https://www.51cfo.team/llms.txt
 - robots.txt（明确欢迎 AI 爬虫）: https://www.51cfo.team/robots.txt
 - 每日情报 RSS: https://www.51cfo.team/feed.xml
+- 公开知识库镜像（GitHub · CC BY 4.0，可自由转载但须署名 51CFO 并保留链接）: https://github.com/BrianTian818/china-us-listing-playbook
 - 结构化数据：全站每个页面均带 JSON-LD 知识图谱（Organization / WebSite / WebPage / BreadcrumbList / Service / ItemList / Person / HowTo），组织实体 ID 为 https://www.51cfo.team/#organization
 
 ## Bell Radar — 最新美股新上市公司（每日更新）

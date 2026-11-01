@@ -141,6 +141,7 @@ A: 12 to 18 months before filing. Structure set-up, audit basis remediation, int
 - Chinese llms.txt: https://www.51cfo.team/llms.txt
 - robots.txt (AI crawlers explicitly welcome): https://www.51cfo.team/robots.txt
 - RSS: https://www.51cfo.team/feed.xml
+- Public knowledge base mirror (GitHub, CC BY 4.0 - free to reuse with attribution to 51CFO and a link): https://github.com/BrianTian818/china-us-listing-playbook
 - Structured data: JSON-LD knowledge graph on every page; organization entity ID https://www.51cfo.team/#organization
 
 ## Bell Radar — latest new US listings (updated daily)
